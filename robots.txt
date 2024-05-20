@@ -1,0 +1,5 @@
+# robots.txt generado por toolseo.net
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Sitemap: https://garciadebolivar.com/sitemap.xml
